@@ -1,0 +1,203 @@
+[
+    {
+      "id": "1",
+      "name": "Cheeseburger",
+      "description": "A juicy beef patty with melted cheddar cheese, lettuce, tomato, pickles, and special sauce on a toasted bun.",
+      "price": 5.99,
+      "calories": 700,
+      "ingredients": [
+        "beef patty",
+        "cheddar cheese",
+        "lettuce",
+        "tomato",
+        "pickles",
+        "special sauce",
+        "toasted bun"
+      ],
+      "category": "burger",
+      "availability": true,
+      "quantity": ["regular","medium","large"]
+    },
+    {
+      "id": "2",
+      "name": "French Fries",
+      "description": "Crispy golden fries seasoned with a touch of salt.",
+      "price": 2.49,
+      "calories": 350,
+      "ingredients": [
+        "potatoes",
+        "salt",
+        "vegetable oil"
+      ],
+      "category": "side",
+      "availability": true,
+       "quantity": ["full","half"]
+    },
+    {
+      "id": "3",
+      "name": "Chicken Nuggets",
+      "description": "Breaded and fried chicken nuggets served with your choice of dipping sauce.",
+      "price": 4.99,
+      "calories": 500,
+      "ingredients": [
+        "chicken breast",
+        "bread crumbs",
+        "flour",
+        "egg",
+        "seasonings"
+      ],
+      "category": "side",
+      "availability": true,
+      "quantity": ["6 pieces","12 pieces"]
+    },
+    {
+      "id": "4",
+      "name": "Pepperoni Pizza",
+      "description": "A classic pizza topped with tomato sauce, mozzarella cheese, and pepperoni slices.",
+      "price": 8.99,
+      "calories": 1200,
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella cheese",
+        "pepperoni"
+      ],
+      "category": "pizza",
+      "availability": true,
+      "quantity": ["regular","medium","large"]
+    },
+    {
+      "id": "5",
+      "name": "Veggie Burger",
+      "description": "A hearty plant-based patty with lettuce, tomato, onions, and a special vegan sauce.",
+      "price": 6.49,
+      "calories": 550,
+      "ingredients": [
+        "plant-based patty",
+        "lettuce",
+        "tomato",
+        "onions",
+        "vegan sauce",
+        "bun"
+      ],
+      "category": "burger",
+      "availability": true,
+      "quantity": ["regular","medium","large"]
+    },
+    {
+      "id": "6",
+      "name": "Chicken Caesar Wrap",
+      "description": "Grilled chicken, romaine lettuce, Parmesan cheese, and Caesar dressing wrapped in a tortilla.",
+      "price": 7.49,
+      "calories": 600,
+      "ingredients": [
+        "grilled chicken",
+        "romaine lettuce",
+        "Parmesan cheese",
+        "Caesar dressing",
+        "tortilla"
+      ],
+      "category": "wrap",
+      "availability": true,
+      "quantity": ["full","half"]
+    },
+    {
+      "id": "7",
+      "name": "Mozzarella Sticks",
+      "description": "Breaded and fried mozzarella cheese sticks served with marinara sauce.",
+      "price": 5.49,
+      "calories": 400,
+      "ingredients": [
+        "mozzarella cheese",
+        "bread crumbs",
+        "flour",
+        "egg",
+        "marinara sauce"
+      ],
+      "category": "side",
+      "availability": true,
+      "quantity": ["6 pieces","12 pieces"]
+    },
+    {
+      "id": "8",
+      "name": "Beef Tacos",
+      "description": "Soft or crispy taco shells filled with seasoned beef, lettuce, cheese, and salsa.",
+      "price": 3.99,
+      "calories": 250,
+      "ingredients": [
+        "beef",
+        "taco shells",
+        "lettuce",
+        "cheese",
+        "salsa"
+      ],
+      "category": "taco",
+      "availability": true,
+      "quantity": ["full","half"]
+    },
+    {
+      "id": "9",
+      "name": "Spicy Chicken Sandwich",
+      "description": "A crispy fried chicken breast with spicy seasoning, pickles, and mayonnaise on a bun.",
+      "price": 6.99,
+      "calories": 800,
+      "ingredients": [
+        "chicken breast",
+        "spicy seasoning",
+        "pickles",
+        "mayonnaise",
+        "bun"
+      ],
+      "category": "sandwich",
+      "availability": true,
+      "quantity": ["small","large"]
+    },
+    {
+      "id": "10",
+      "name": "Onion Rings",
+      "description": "Golden, crispy onion rings served with a side of dipping sauce.",
+      "price": 3.99,
+      "calories": 400,
+      "ingredients": [
+        "onions",
+        "bread crumbs",
+        "flour",
+        "egg",
+        "seasonings"
+      ],
+      "category": "side",
+      "availability": true,
+      "quantity": ["half", "full"]
+    },
+    {
+      "id": "11",
+      "name": "Garlic Breadsticks",
+      "description": "Soft breadsticks brushed with garlic butter and sprinkled with Parmesan cheese.",
+      "price": 4.49,
+      "calories": 300,
+      "ingredients": [
+        "breadsticks",
+        "garlic butter",
+        "Parmesan cheese"
+      ],
+      "category": "side",
+      "availability": true,
+      "quantity": ["6 pieces","12 pieces"]
+    },
+    {
+      "id": "12",
+      "name": "Fruit Smoothie",
+      "description": "A refreshing blend of seasonal fruits, yogurt, and a hint of honey.",
+      "price": 5.49,
+      "calories": 250,
+      "ingredients": [
+        "seasonal fruits",
+        "yogurt",
+        "honey"
+      ],
+      "category": "drink",
+      "availability": true,
+      "quantity":["small", "large"]
+    }
+  ]
+  
