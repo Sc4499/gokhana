@@ -31,7 +31,7 @@
       ],
       "category": "side",
       "availability": true,
-       "quantity": ["full","half"]
+       "quantity": [{"full" : 300},{"half" : 200}]
     },
     {
       "id": "3",
@@ -48,7 +48,7 @@
       ],
       "category": "side",
       "availability": true,
-      "quantity": ["6 pieces","12 pieces"]
+      "quantity": [{"6 pieces" : 250},{"12 pieces" : 400}]
     },
     {
       "id": "4",
@@ -64,7 +64,7 @@
       ],
       "category": "pizza",
       "availability": true,
-      "quantity": ["regular","medium","large"]
+      "quantity": [{"Regular" : 100},{"Medium" : 200},{"Large" : 300}]
     },
     {
       "id": "5",
@@ -150,7 +150,7 @@
       ],
       "category": "sandwich",
       "availability": true,
-      "quantity": ["small","large"]
+      "quantity": [{"Small":300},{"Large" : 500}]
     },
     {
       "id": "10",
