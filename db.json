@@ -31,7 +31,7 @@
       ],
       "category": "side",
       "availability": true,
-       "quantity": [{"full" : 300},{"half" : 200}]
+       "quantity": [{"Full" : 300},{"Half" : 200}]
     },
     {
       "id": "3",

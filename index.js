@@ -31,6 +31,7 @@ app.get('/api/fooditem', async (req, res) => {
 app.use('/api', require("./routes/userRoute.js"));
 app.use('/api', require("./routes/catRoute.js"));
 app.use('/api', require("./routes/fooditemRoute.js"));
+app.use('/api', require("./routes/orderRoute.js"));
 
 // Start the server
 app.listen(port, () => {
